@@ -5,7 +5,20 @@ It's not a project unit, but it's a repository containing important functions th
 <br>
 
 ### Python OpenCV - Calibration
-  - [Code]()
+  - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/calibration.py)
+  <br>
+    - **calibration() Class** Method<br>
+    `open_camera(cam='ip0')` : It just open a camera image(video)<br>
+    `capture_camera(cam='ip0')` : If you press the keyboard c, capture it and save it in order. It is used to capture the checkerboard.<br>
+    (If it's a laptop webcam, please put `0` in the `cam` parameter.)<br>
+    `find_corner()` : Checkerboard detection.<br>
+    `calibrate_image()` : Calibrate and display distorted images. And this method also performs numerical evaluations.<br>
+    `test_image()` : Test only the given image using the generated matrix.<br>
+    `calibrate_video(cam='ip0')` : Calibrate and display real-time images using the generated matrix.<br>
+    <br>
+    <p align="center"><img src="./doc/1.png" width = "700" ></p><br>
+    
+    If you want to start with a checkerboard capture and want all the calibration processes, you can refer to the `capture_camera(cam='ip0')`, `find_corner()`, `calibrate_image()` methods.<br><br>
 
 ### `.npy` file creation
   - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/npy_create.ipynb)<br>
