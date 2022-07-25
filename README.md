@@ -6,7 +6,6 @@ It's not a project unit, but it's a repository containing important functions th
 
 ### Python OpenCV - Calibration
   - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/calibration.py)
-  <br>
     - **calibration() Class** Method<br>
     `open_camera(cam='ip0')` : It just open a camera image(video)<br>
     `capture_camera(cam='ip0')` : If you press the keyboard c, capture it and save it in order. It is used to capture the checkerboard.<br>
