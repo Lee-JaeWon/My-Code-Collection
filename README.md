@@ -6,3 +6,7 @@ It's not a project unit, but it's a repository containing important functions th
 
 ### Python OpenCV - Calibration
   - [Code]()
+
+### `.npy` file creation
+  - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/npy_create.ipynb)<br>
+  이미지 데이터 셋을 `.npy`파일 형식으로 바꾸는 코드(.ipynb 파일)
