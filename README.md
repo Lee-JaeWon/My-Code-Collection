@@ -52,6 +52,7 @@ It's not a project, but it's a repository containing important functions that I 
   1. `import com_port.py`
   2. `com_port.serial_ports()` returns list of COM Ports<br>
   <br>
+  
   ```python
   result = com_port.serial_ports()
   print(result)
