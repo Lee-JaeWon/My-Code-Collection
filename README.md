@@ -48,6 +48,14 @@ It's not a project, but it's a repository containing important functions that I 
 - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/com_port.py)<br>
   [Reference](http://daplus.net/python-python%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-com-%ED%8F%AC%ED%8A%B8-%EB%82%98%EC%97%B4/)
 
+  ### How to use
+  1. `import com_port.py`
+  2. `com_port.serial_ports()` returns list of COM Ports
+  ```python
+  result = com_port.serial_ports()
+  print(result)
+  ```
+
   ### Result
   ```
   ['COM5', 'COM9']
