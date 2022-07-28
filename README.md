@@ -46,7 +46,8 @@ It's not a project, but it's a repository containing important functions that I 
 
 ## 🔎Python : Scan Serial Port (COMn)
 - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/com_port.py)<br>
-  [Reference](http://daplus.net/python-python%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-com-%ED%8F%AC%ED%8A%B8-%EB%82%98%EC%97%B4/)
+  [Reference](http://daplus.net/python-python%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-com-%ED%8F%AC%ED%8A%B8-%EB%82%98%EC%97%B4/)<br>
+  (The code in the reference and my code are the same and the copyright belongs to the original author of the code.)
 
   ### How to use
   1. Download(or git clone) `com_port.py`
