@@ -8,6 +8,7 @@ It's not a project, but it's a repository containing important functions that I 
 [Python OpenCV - Calibration](https://github.com/Lee-JaeWon/My-Code-Collection#python-opencv---calibration)<br>
 [.npy file creation](https://github.com/Lee-JaeWon/My-Code-Collection#npy-file-creation)<br>
 [PyQt5](https://github.com/Lee-JaeWon/My-Code-Collection#pyqt5)<br>
+[Python : Scan Serial Port (COMn)]()
 
 ---
 <br><br>
@@ -34,11 +35,20 @@ It's not a project, but it's a repository containing important functions that I 
   <br>
 
 ## 🔎PyQt5
-### Installation with pip
-```
-pip install PyQt5
-```
+  - Installation with pip
+    ```
+    pip install PyQt5
+    ```
+  - [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/PyQt.py)<br>
+  Basic Code
+
 <br>
 
-- [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/PyQt.py)<br>
-  Basic Code
+## 🔎Python : Scan Serial Port (COMn)
+- [Code](https://github.com/Lee-JaeWon/My-Code-Collection/blob/main/Code_py/com_port.py)<br>
+  [Reference](http://daplus.net/python-python%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-com-%ED%8F%AC%ED%8A%B8-%EB%82%98%EC%97%B4/)
+
+  ### Result
+  ```
+  ['COM5', 'COM9']
+  ```
