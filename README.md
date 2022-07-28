@@ -8,7 +8,7 @@ It's not a project, but it's a repository containing important functions that I 
 [Python OpenCV - Calibration](https://github.com/Lee-JaeWon/My-Code-Collection#python-opencv---calibration)<br>
 [.npy file creation](https://github.com/Lee-JaeWon/My-Code-Collection#npy-file-creation)<br>
 [PyQt5](https://github.com/Lee-JaeWon/My-Code-Collection#pyqt5)<br>
-[Python : Scan Serial Port (COMn)]()
+[Python : Scan Serial Port (COMn)](https://github.com/Lee-JaeWon/My-Code-Collection#python--scan-serial-port-comn)<br>
 
 ---
 <br><br>
