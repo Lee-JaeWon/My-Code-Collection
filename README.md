@@ -49,9 +49,9 @@ It's not a project, but it's a repository containing important functions that I 
   [Reference](http://daplus.net/python-python%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-com-%ED%8F%AC%ED%8A%B8-%EB%82%98%EC%97%B4/)
 
   ### How to use
-  0. Download(or git clone) `com_port.py`
-  1. `import com_port.py`
-  2. `com_port.serial_ports()` returns list of COM Ports<br>
+  1. Download(or git clone) `com_port.py`
+  2. `import com_port.py`
+  3. `com_port.serial_ports()` returns list of COM Ports<br>
   <br>
 
   ```python
